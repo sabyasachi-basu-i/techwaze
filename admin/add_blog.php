@@ -119,8 +119,12 @@
                     <label for="product">Product</label>
                     <select class="form-control" name="product" id="product" required>
                       <option value="">Select Product</option>
-                      <option value="AMP">AMP</option>
-                      <option value="IDP">IDP</option>
+                      <option value="Insurance">Insurance</option>
+                      <option value="CPG">CPG</option>
+                      <option value="BFS">BFS</option>
+                      <option value="Manufacturing">Manufacturing</option>
+                      <option value="Healthcare">Healthcare</option>
+                      <option value="Technology, Telecom & Media">Technology, Telecom & Media</option>
                     </select>
                   </div>
                 </div>
