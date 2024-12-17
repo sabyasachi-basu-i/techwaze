@@ -13,7 +13,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>Admin</title>
-  <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+  <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="assets/css/materialdesignicons.min.css">
   <link rel="stylesheet" href="assets/css/dataTables.bootstrap4.css">
   <link rel="stylesheet" href="assets/css/style.css">
@@ -42,10 +42,10 @@
       </ul>
       <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
         <a class="navbar-brand brand-logo bg-dark" href="blog" style="width: fit-content; margin: 0 auto">
-          <img src="assets/images/logo.png" alt="logo"/>
+          <img src="assets/images/logo.svg" alt="logo"/>
         </a>
         <a class="navbar-brand brand-logo-mini" href="blog">
-          <img src="assets/images/favicon.png" alt="logo"/>
+          <img src="assets/images/favicon.ico" alt="logo"/>
         </a>
       </div>
       <ul class="navbar-nav navbar-nav-right">

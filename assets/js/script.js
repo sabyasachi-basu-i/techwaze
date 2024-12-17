@@ -6,7 +6,7 @@ if($(".nav_bar").length)
     let scrollY = this.window.scrollY;
     scrollY > 60 ? $(".nav_bar").addClass("active") : $(".nav_bar").removeClass("active");
     
-    //scrollY > 60 ? $(".logo").html(`<img src="assets/images/logo2.png">`) : $(".logo").html(`<img src="assets/images/logo.png">`);
+    //scrollY > 60 ? $(".logo").html(`<img src="assets/images/logo2.png">`) : $(".logo").html(`<img src="assets/images/logo.svg">`);
 
   })
 }

@@ -10,7 +10,7 @@ require "admin/config.php";
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <title>Techwaze</title>
-    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
 
     <!-- bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -55,7 +55,7 @@ require "admin/config.php";
         <div class="nav_bar_in d-flex align-items-center justify-content-between">
 
             <a href="index" class="logo">
-                <img src="assets/images/logo.png" alt="">
+                <img src="assets/images/logo.svg" alt="">
             </a>
 
             <ul class="menu">
@@ -197,7 +197,7 @@ require "admin/config.php";
 
             <div class="nav-logo">
                 <a href="index">
-                    <img src="assets/images/logo.png">
+                    <img src="assets/images/logo.svg">
                 </a>
             </div>
 
@@ -411,9 +411,9 @@ require "admin/config.php";
 
             <div class="footer_item col-sm-6 col-lg-3">
 
-                <div class="footer_logo mb-4">
+            <div class="footer_logo mb-4">
                     <a href="index" class="logo">
-                        <img src="assets/images/logo.png">
+                        <img src="assets/images/logo_full_white.svg">
                     </a>
                 </div>
 
