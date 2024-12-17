@@ -134,10 +134,16 @@ if (isset($_POST['blog_submit'])) {
                     <label for="product">Product</label>
                     <select class="form-control" name="product" id="product" required>
                       <option value="">Select Product</option>
-                      <option value="AMP" <?php if ($row['product'] == "AMP") echo "selected";
-                                          "" ?>>AMP</option>
-                      <option value="IDP" <?php if ($row['product'] == "IDP") echo "selected";
-                                          "" ?>>IDP</option>
+                      <option value="Insurance" <?php if ($row['product'] == "Insurance") echo "selected";
+                                          "" ?>>Insurance</option>
+                      <option value="CPG" <?php if ($row['product'] == "CPG") echo "selected";
+                                          "" ?>>CPG</option>
+                      <option value="BFS" <?php if ($row['product'] == "BFS") echo "selected";
+                                          "" ?>>BFS</option>
+                      <option value="Manufacturing" <?php if ($row['product'] == "Manufacturing") echo "selected";
+                                          "" ?>>Manufacturing</option>
+                      <option value="Healthcare" <?php if ($row['product'] == "Healthcare") echo "selected";
+                                          "" ?>>Healthcare</option>                        
                     </select>
                   </div>
                 </div>
